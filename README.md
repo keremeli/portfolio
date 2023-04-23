@@ -1,7 +1,7 @@
 # Vulnerable portfolio website
 
-![Image alt](https://github.com/keremeli/portfolio/raw/master/images of website/1.png)
-![Image alt](https://github.com/keremeli/portfolio/raw/master/images of website/2.png)
-![Image alt](https://github.com/keremeli/portfolio/raw/master/images of website/3.png)
-![Image alt](https://github.com/keremeli/portfolio/raw/master/images of website/4.png)
+![Image alt](https://github.com/keremeli/portfolio/raw/master/images/1.jpeg)
+![Image alt](https://github.com/keremeli/portfolio/raw/master/images/2.jpeg)
+![Image alt](https://github.com/keremeli/portfolio/raw/master/images/3.jpeg)
+![Image alt](https://github.com/keremeli/portfolio/raw/master/images/4.jpeg)
 
